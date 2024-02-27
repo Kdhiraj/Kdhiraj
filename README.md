@@ -45,7 +45,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,bootstrap,vscode,git,github" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,mysql,postgresql,nest,aws,postman,redis,kafka,rabbitmq,elasticsearch,grafana,go,cpp,graphql,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,mysql,postgresql,nest,aws,postman,redis,kafka,rabbitmq,elasticsearch,grafana,go,cpp,graphql,docker,nginx,fastapi" /><br>
 </div>
 
 <br/>
