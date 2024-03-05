@@ -1,7 +1,11 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=kdhiraj&label=Profile%20views&color=0e75b6&style=flat" alt="kdhiraj" /> 
+<a style="pointer-events: none;" href="#">
+    <img align="right" src="https://komarev.com/ghpvc/?username=kdhiraj&label=Profile%20views&color=0e75b6&style=flat" alt="kdhiraj" />
+</a>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dhiraj+Kumar!;" />
+    <a style="pointer-events: none;" href="#">
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dhiraj+Kumar!;" />
+    </a>
 </h1>
 
 <h3 align="center">A passionate software developer from India</h3>
@@ -43,9 +47,41 @@
  
 <h2 align="center" >⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="center" style="pointer-events: none;">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,bootstrap,vscode,git,github" alt="" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,mysql,postgresql,nest,aws,postman,redis,kafka,rabbitmq,elasticsearch,grafana,go,cpp,graphql,docker,nginx,fastapi" alt=" "  /><br>
+<div align="center">
+    <a style="pointer-events: none;" href="#"><img src="https://skillicons.dev/icons?i=html"></a>
+    <a style="pointer-events: none;" href="#"><img src="https://skillicons.dev/icons?i=css"></a>
+    <a style="pointer-events: none;" href="#"><img src="https://skillicons.dev/icons?i=tailwind"></a>
+    <a style="pointer-events: none;" href="#"><img src="https://skillicons.dev/icons?i=react"></a>
+    <a style="pointer-events: none;" href="#"><img src="https://skillicons.dev/icons?i=nextjs"></a>
+    <a style="pointer-events: none;" href="#"><img src="https://skillicons.dev/icons?i=bootstrap"></a>
+    <a style="pointer-events: none;" href="#"><img src="https://skillicons.dev/icons?i=vscode"></a>
+    <a style="pointer-events: none;" href="#"><img src="https://skillicons.dev/icons?i=git"></a>
+    <a style="pointer-events: none;" href="#"><img src="https://skillicons.dev/icons?i=github"></a><br>
+</div>
+<div align="center">
+    <a style="pointer-events: none;" href="#"><img src="https://skillicons.dev/icons?i=nodejs"></a>
+    <a style="pointer-events: none;" href="#"><img src="https://skillicons.dev/icons?i=python"></a>
+    <a style="pointer-events: none;" href="#"><img src="https://skillicons.dev/icons?i=javascript"></a>
+    <a style="pointer-events: none;" href="#"><img src="https://skillicons.dev/icons?i=typescript"></a>
+    <a style="pointer-events: none;" href="#"><img src="https://skillicons.dev/icons?i=express"></a>
+    <a style="pointer-events: none;" href="#"><img src="https://skillicons.dev/icons?i=firebase"></a>
+    <a style="pointer-events: none;" href="#"><img src="https://skillicons.dev/icons?i=mongodb"></a>
+    <a style="pointer-events: none;" href="#"><img src="https://skillicons.dev/icons?i=mysql"></a>
+    <a style="pointer-events: none;" href="#"><img src="https://skillicons.dev/icons?i=postgresql"></a>
+    <a style="pointer-events: none;" href="#"><img src="https://skillicons.dev/icons?i=nest"></a>
+    <a style="pointer-events: none;" href="#"><img src="https://skillicons.dev/icons?i=aws"></a>
+    <a style="pointer-events: none;" href="#"><img src="https://skillicons.dev/icons?i=postman"></a>
+    <a style="pointer-events: none;" href="#"><img src="https://skillicons.dev/icons?i=redis"></a>
+    <a style="pointer-events: none;" href="#"><img src="https://skillicons.dev/icons?i=kafka"></a>
+    <a style="pointer-events: none;" href="#"><img src="https://skillicons.dev/icons?i=rabbitmq"></a>
+    <a style="pointer-events: none;" href="#"><img src="https://skillicons.dev/icons?i=elasticsearch"></a>
+    <a style="pointer-events: none;" href="#"><img src="https://skillicons.dev/icons?i=grafana"></a>
+    <a style="pointer-events: none;" href="#"><img src="https://skillicons.dev/icons?i=go"></a>
+    <a style="pointer-events: none;" href="#"><img src="https://skillicons.dev/icons?i=cpp"></a>
+    <a style="pointer-events: none;" href="#"><img src="https://skillicons.dev/icons?i=graphql"></a>
+    <a style="pointer-events: none;" href="#"><img src="https://skillicons.dev/icons?i=docker"></a>
+    <a style="pointer-events: none;" href="#"><img src="https://skillicons.dev/icons?i=nginx"></a>
+    <a style="pointer-events: none;" href="#"><img src="https://skillicons.dev/icons?i=fastapi"></a><br>
 </div>
 
 <br/>
@@ -54,9 +90,9 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kdhiraj&show_icons=true&locale=en&layout=compact" alt="kdhiraj" />
-<img src="https://github-readme-stats.vercel.app/api?username=kdhiraj&show_icons=true&locale=en" alt="kdhiraj" /><br/>
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=kdhiraj&" alt="kdhiraj" />
+<a style="pointer-events: none;" href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kdhiraj&show_icons=true&locale=en&layout=compact" alt="kdhiraj" /></a>
+<a style="pointer-events: none;" href="#"><img src="https://github-readme-stats.vercel.app/api?username=kdhiraj&show_icons=true&locale=en" alt="kdhiraj" /><br/></a>
+<a style="pointer-events: none;" href="#"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=kdhiraj&" alt="kdhiraj" /></a>
 
 
 </div>
