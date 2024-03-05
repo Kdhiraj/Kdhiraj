@@ -41,11 +41,11 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center" >⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,bootstrap,vscode,git,github" style="pointer-events: none;" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,mysql,postgresql,nest,aws,postman,redis,kafka,rabbitmq,elasticsearch,grafana,go,cpp,graphql,docker,nginx,fastapi" style="pointer-events: none;" /><br>
+<div align="center" style="pointer-events: none;">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,bootstrap,vscode,git,github" alt="" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,mysql,postgresql,nest,aws,postman,redis,kafka,rabbitmq,elasticsearch,grafana,go,cpp,graphql,docker,nginx,fastapi" alt=" "  /><br>
 </div>
 
 <br/>
