@@ -59,7 +59,6 @@
 </div>
 <div align="center">
     <a style="pointer-events: none;" href="#"><img src="https://skillicons.dev/icons?i=nodejs"></a>
-    <a style="pointer-events: none;" href="#"><img src="https://skillicons.dev/icons?i=python"></a>
     <a style="pointer-events: none;" href="#"><img src="https://skillicons.dev/icons?i=javascript"></a>
     <a style="pointer-events: none;" href="#"><img src="https://skillicons.dev/icons?i=typescript"></a>
     <a style="pointer-events: none;" href="#"><img src="https://skillicons.dev/icons?i=express"></a>
@@ -75,7 +74,7 @@
     <a style="pointer-events: none;" href="#"><img src="https://skillicons.dev/icons?i=rabbitmq"></a>
     <a style="pointer-events: none;" href="#"><img src="https://skillicons.dev/icons?i=elasticsearch"></a>
     <a style="pointer-events: none;" href="#"><img src="https://skillicons.dev/icons?i=grafana"></a>
-    <a style="pointer-events: none;" href="#"><img src="https://skillicons.dev/icons?i=go"></a>
+    <a style="pointer-events: none;" href="#"><img src="https://skillicons.dev/icons?i=java"></a>
     <a style="pointer-events: none;" href="#"><img src="https://skillicons.dev/icons?i=cpp"></a>
     <a style="pointer-events: none;" href="#"><img src="https://skillicons.dev/icons?i=graphql"></a>
     <a style="pointer-events: none;" href="#"><img src="https://skillicons.dev/icons?i=docker"></a>
