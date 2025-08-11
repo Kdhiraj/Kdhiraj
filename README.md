@@ -8,14 +8,12 @@
     </a>
 </h1>
 
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A passionate Senior Software Engineer from India</h3>
 
 <br/>
 <div align="center">
 
- 🔭 I’m currently working as a  **Backend Developer**
- 
- 🌱 I’m currently learning **Sytem Design**
+ 🔭 I’m currently working as a  **Senior Software Engineer**
  
 🎓 Bachelor's degree in Information Technology<br/>
 
