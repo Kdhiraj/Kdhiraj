@@ -3,99 +3,127 @@
 </a>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dhiraj+Kumar!;+Full+Stack+%26+DevOps+Engineer+🚀;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!;+I'm+Dhiraj+Kumar.;+Senior+Software+Engineer;" />
 </h1>
 
-<h3 align="center">🏗️ Senior Software Engineer | Backend + Frontend + DevOps | Cloud Enthusiast ☁️</h3>
+<h3 align="center">Full Stack | DevOps | Cloud | AI/ML</h3>
 
 ---
+
+### 👨‍💻 About Me
+
+I’m a **Senior Software Engineer** with a background in **Information Technology**, focused on building **scalable, reliable, and efficient systems**.  
+I enjoy solving complex problems, optimizing performance, and designing solutions that last.  
+
+My expertise spans backend, frontend, DevOps, and cloud infrastructure.  
+Currently, I’m exploring **AI/ML** and its integration into backend and cloud architectures.
+
+---
+
+### 📫 Connect with Me
 
 <div align="center">
-
-💼 Currently working as a **Senior Software Engineer**  
-🎓 Bachelor's in **Information Technology**  
-🌍 Passionate about **building scalable systems**, **optimizing performance**, and **engineering reliability**  
-⚙️ Skilled across **Backend**, **Frontend**, **DevOps**, and **Cloud Infrastructure**  
-💬 Ask me about **Node.js, TypeScript, React, Docker, AWS, or CI/CD pipelines**  
-📈 Focused on writing **clean, maintainable, and high-performance code**  
-
-</div>
-
----
-
-<div align="center"> 
   <a href="mailto:kdhiraj3776@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/dhiraj-kumar-38b387169/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Kdhiraj" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </div>
 
 ---
 
-<h2 align="center">⚒️ Tech Stack & Tools ⚒️</h2>
+### ⚙️ Technical Skills
 
+**Core Languages**  
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=javascript" height="40" />  
+  <img src="https://skillicons.dev/icons?i=typescript" height="40" />  
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" />  
+  <img src="https://skillicons.dev/icons?i=express" height="40" />  
+  <img src="https://skillicons.dev/icons?i=java" height="40" />  
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" />  
+  <img src="https://skillicons.dev/icons?i=python" height="40" />  
+  <img src="https://skillicons.dev/icons?i=graphql" height="40" />  
+</div>
 
-### 🧠 Core Skills
-<img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,java,cpp,python,graphql"/>
+**Frontend**  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react" height="40" />  
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" />  
+  <img src="https://skillicons.dev/icons?i=html" height="40" />  
+  <img src="https://skillicons.dev/icons?i=css" height="40" />  
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" />  
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" />  
+  <img src="https://skillicons.dev/icons?i=vite" height="40" />  
+</div>
 
-### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,vite"/>
+**Backend & Databases**  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nestjs" height="40" />  
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" />  
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" />  
+  <img src="https://skillicons.dev/icons?i=postgresql" height="40" />  
+  <img src="https://skillicons.dev/icons?i=redis" height="40" />  
+  <img src="https://skillicons.dev/icons?i=kafka" height="40" />  
+  <img src="https://skillicons.dev/icons?i=rabbitmq" height="40" />  
+  <img src="https://skillicons.dev/icons?i=elasticsearch" height="40" />  
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40" />  
+</div>
 
-### ⚙️ Backend & Databases
-<img src="https://skillicons.dev/icons?i=nestjs,mongodb,mysql,postgresql,redis,kafka,rabbitmq,elasticsearch,fastapi"/>
+**Cloud & DevOps**  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws" height="40" />  
+  <img src="https://skillicons.dev/icons?i=docker" height="40" />  
+  <img src="https://skillicons.dev/icons?i=nginx" height="40" />  
+  <img src="https://skillicons.dev/icons?i=jenkins" height="40" />  
+  <img src="https://skillicons.dev/icons?i=githubactions" height="40" />  
+  <img src="https://skillicons.dev/icons?i=grafana" height="40" />  
+  <img src="https://skillicons.dev/icons?i=prometheus" height="40" />  
+</div>
 
-### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,docker,nginx,jenkins,githubactions,grafana,prometheus"/>
-
-### 🧰 Tools & Environment
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux"/>
-
+**Tools & Environment**  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git" height="40" />  
+  <img src="https://skillicons.dev/icons?i=github" height="40" />  
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" />  
+  <img src="https://skillicons.dev/icons?i=postman" height="40" />  
+  <img src="https://skillicons.dev/icons?i=linux" height="40" />  
 </div>
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kdhiraj&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdhiraj&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kdhiraj&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kdhiraj&show_icons=true&theme=tokyonight&hide_border=true" height="150" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdhiraj&layout=compact&theme=tokyonight&hide_border=true" height="150" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kdhiraj&theme=tokyonight&hide_border=true" height="150" />  
 </div>
 
 ---
 
-<h2 align="center">🌟 Featured Skills & Interests</h2>
+### 💡 Areas of Expertise
 
-<div align="center">
-
-⭐ **Data Structures & Algorithms** – solid foundation in computational problem-solving  
-⭐ **System Design** – designing scalable, high-availability architectures  
-⭐ **Frontend Engineering** – crafting responsive and performant UIs  
-⭐ **Backend Development** – microservices, API design, and performance optimization  
-⭐ **DevOps & CI/CD** – automating workflows, deployments, and observability  
-⭐ **Cloud Infrastructure** – building and managing AWS-based solutions  
-⭐ **AI/ML Enthusiast** – exploring intelligent systems and automation  
-
-</div>
+- Backend Engineering — API design, microservices, performance optimization  
+- System Design — scalable and fault-tolerant architectures  
+- Frontend Development — responsive and high-performance UI  
+- DevOps & CI/CD — workflow automation, deployment, monitoring  
+- Cloud Infrastructure — AWS-based solutions  
+- Data Structures & Algorithms — strong problem-solving foundation  
+- AI/ML — currently exploring AI integration with backend systems  
 
 ---
 
-<h2 align="center">🚀 Learning & Growth</h2>
+### 📚 Learning & Growth
 
-<div align="center">
-
-🌱 Continuously learning **System Design**, **Cloud Architecture**, and **DevOps automation**  
-📚 Exploring **AI/ML integration** in modern backend systems  
-🎯 Striving to deliver **high-quality, maintainable, and scalable software**
-
-</div>
+- Expanding AI/ML skills for practical backend applications  
+- Deepening expertise in System Design and DevOps automation  
+- Focused on building reliable, maintainable, and scalable systems  
 
 ---
 
-<h3 align="center">✨ “Great engineers don’t just write code — they craft systems that empower others.” ✨</h3>
+<h3 align="center">“Great engineers don’t just write code — they design systems that last.”</h3>
